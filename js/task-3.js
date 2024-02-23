@@ -11,5 +11,5 @@ function getElementWidth(content, padding, border) {
 console.log(getElementWidth("50px", "8px", "4px")); 
 console.log(getElementWidth("60px", "12px", "8.5px"));
 console.log(getElementWidth("200px", "0px", "0px"));
-//console.log(getElementWidth("350px", "18px", "2px"));
+//console.log(getElementWidth("350.1px", "18.1px", "2.2px"));
 
